@@ -1,0 +1,9 @@
+# Dependency folders
+/node_modules
+/vendor
+
+# Operating System temporary files
+.DS_Store
+
+# Passwords
+arduino_secrets.h
